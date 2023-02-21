@@ -6,6 +6,7 @@
 The script will move the template into the correct location, and update ~/.vimrc
 
 Example:
+```
 ###############################################################
 # Script Name 	:
 # Description	:
@@ -15,5 +16,6 @@ Example:
 # Email		: 
 # Date		:  
 ###############################################################
+```
 
 ## BEST OF LUCK! ##
