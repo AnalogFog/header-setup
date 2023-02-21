@@ -5,4 +5,15 @@
 
 The script will move the template into the correct location, and update ~/.vimrc
 
+Example:
+###############################################################
+# Script Name 	:
+# Description	:
+# Args		:
+# Example	: 
+# Author	: 
+# Email		: 
+# Date		:  
+###############################################################
+
 ## BEST OF LUCK! ##
